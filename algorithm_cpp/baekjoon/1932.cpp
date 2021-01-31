@@ -12,11 +12,8 @@ int main()
 	int iInput = 0;
 
 	cin >> iInput;
-
 	cin >> iValue[1][1];
-
 	d[1][1] = iValue[1][1];
-
 
 	for (int i = 2; i <= iInput; ++i)
 	{
