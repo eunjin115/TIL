@@ -1,7 +1,6 @@
 //https://www.acmicpc.net/problem/1316
 
 #include <iostream>
-#include <vector>
 #include <string>
 
 using namespace std;
@@ -37,5 +36,4 @@ int main()
 	
 	cout << result;
 
-	return 0;
 }

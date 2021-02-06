@@ -12,7 +12,7 @@ int main()
 
 	while (1)
 	{
-		getline(cin, str); // 공백까지 입력받아야 하므로 scanf사용은 부적절하다고 생각했습니다.
+		getline(cin, str);
 		stack<char> a;
 
 		if (str.length() == 1 && str[0] == '.')
